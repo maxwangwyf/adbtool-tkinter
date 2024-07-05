@@ -1,2 +1,2 @@
-# adbtool-tkinter
+# adbtool-customtkinter
 使用python自带的tkinter的第三方customtkinter皮肤，编写的adb调试工具
